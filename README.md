@@ -44,7 +44,7 @@ Porém, antes de iniciar a aplicação o usuário deve criar os bancos de dados:
 
 ## Gerando um Token para acesso aos recursos da API com o Postman.
 
-Devido ao requisito de segurança, implementei uma camada de segurança utilizando o Sprint Security. Com isso, todas as chamadas  da api desenvolvida, necessida de um Token.
+Devido ao requisito de segurança, implementei uma camada utilizando o Sprint Security. Com isso, todas as chamadas  da api desenvolvida, necessida de um Token.
 
 Para a geração to Token, o usuário necessita fazer uma chamada HTTP do tipo POST, na seguinte URL: localhost:8080/selecao-api/oauth/token.
 
