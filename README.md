@@ -6,23 +6,23 @@ Projeto desenvolvido para seleção do IFCE
 
 Este projeto utiliza as seguintes tecnologias:
 
-Sprint Boot
+- Sprint Boot
 
-Java 11
+- Java 11
 
-Hibernate
+- Hibernate
 
-JPA
+- JPA
 
-Sprint Data
+- Sprint Data
 
-Junity
+- Junity
 
-Spring Security
+- Spring Security
 
-Lombok
+- Lombok
 
-PostgresSQL
+- PostgresSQL
 
 
 ## Configurações para manipular o projeto com o Lombok
